@@ -16,7 +16,7 @@ Platform:
 npm manifest: 
   {
     "name": "react-native-awesome-marquee",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Awesome marquee",
     "main": "index.js",
     "repository": "https://github.com/ryanyu104/react-native-awesome-marquee.git",

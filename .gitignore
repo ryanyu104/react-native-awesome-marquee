@@ -2,5 +2,5 @@ node_modules/*
 npm-debug.*
 .DS_Store
 npm-debug.log.*
-yarn-error.log.*
+yarn-error.log
 etc/*

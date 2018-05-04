@@ -80,7 +80,7 @@ Marquee.propTypes = {
 
 Marquee.defaultProps = {
   duration: 10000,
-  height: 200,
+  height: 100,
 };
 
 
