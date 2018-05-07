@@ -5413,6 +5413,10 @@ react-is@^16.3.1, react-is@^16.3.2:
   version "16.3.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.3.2.tgz#f4d3d0e2f5fbb6ac46450641eb2e25bf05d36b22"
 
+react-native-awesome-marquee@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-awesome-marquee/-/react-native-awesome-marquee-1.0.5.tgz#3832ce488570c4e7651b5dcfdf521e14e6b722c5"
+
 react-native-branch@2.0.0-beta.3:
   version "2.0.0-beta.3"
   resolved "https://registry.yarnpkg.com/react-native-branch/-/react-native-branch-2.0.0-beta.3.tgz#2167af86bbc9f964bd45bd5f37684e5b54965e32"
