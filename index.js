@@ -17,8 +17,10 @@ class Marquee extends Component {
     this.animatedTransformY = new Animated.Value(0);
   }
 
-  componentDidUpdate() {
-    this.runAnimation();
+  componentDidUpdate(prevProps, prevState) {
+    if (prevState.height !== this.state.height) {
+      this.runAnimation();
+    }
   }
 
   runAnimation() {
@@ -32,7 +34,7 @@ class Marquee extends Component {
 
   wrapperOnLayout(e) {
     this.setState({
-      height: e.nativeEvent.layout.height,
+      height: Math.round(e.nativeEvent.layout.height),
     });
   }
 
