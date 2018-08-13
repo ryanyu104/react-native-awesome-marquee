@@ -1,16 +1,11 @@
 {
   "name": "react-native-awesome-marquee",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Awesome marquee",
   "main": "index.js",
   "repository": "https://github.com/ryanyu104/react-native-awesome-marquee.git",
   "author": "Ryan Yu",
   "license": "MIT",
   "private": false,
-  "keywords": [
-    "react-native",
-    "react",
-    "marquee",
-    "vertical-marquee"
-  ]
+  "keywords": ["react-native", "react", "marquee", "vertical-marquee"]
 }
