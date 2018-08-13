@@ -81,7 +81,7 @@ class Example extends Component {
 
 ### Notice
 
-When you pass data to Marquee, you don't need to pass React.children, You can only choose one from the data and children.
+When passing data to Marquee, you don't need to pass children, You can only choose one from the data and children.
 
 ### Options
 
