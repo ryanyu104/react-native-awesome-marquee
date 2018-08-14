@@ -32,8 +32,7 @@ class Example extends Component {
 
   render() {
     return (
-      <View style={styles.applicationView}>
-        <StatusBar barStyle="light-content" />
+      <View>
         <Marquee duration={20000} height={200}>
           <View>
             <Text>
@@ -72,7 +71,6 @@ class Example extends Component {
             </Text>
           </View>
         </Marquee>
-        <ReduxNavigation />
       </View>
     );
   }
