@@ -1,4 +1,4 @@
-pr# react-native-awesome-marquee
+## react-native-awesome-marquee
 
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/ryanyu104/react-native-awesome-marquee/ryanyu104/master/LICENSE.md)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-awesome-marquee.svg)](https://www.npmjs.com/package/react-native-awesome-marquee)
@@ -7,6 +7,7 @@ pr# react-native-awesome-marquee
 
 - [Install](#install)
 - [Usage](#usage)
+- [Notice](#notice)
 - [Options](#options)
 
 ## Install
