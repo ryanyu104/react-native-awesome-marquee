@@ -80,7 +80,7 @@ class Example extends Component {
 
 ### Notice
 
-When passing data to Marquee, you don't need to pass children, You can only choose one from the data and children.
+You do not need to pass children when passing data to Marquee; you can only pass one of the data and children.
 
 ### Options
 
